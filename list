@@ -262,6 +262,10 @@ http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h
 http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
 #EXTINF:-1 tvg-id="mykids" tvg-logo="http://dusktill.masuk.web.id/img/mkidz.png" group-title="Kids", MKIDZZ
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/boomerang.png" group-title="Kids", Boomerang
+https://cdn10jtedge.useetv.com/joss/14/boomerang/chunklist_w2145030991_b684100_sleng_kamiselaluada.m3u8?enc=m7SPlSVXFmSs2TCnBWPz8g&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613741528
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/cartoonnetwork.png" group-title="Kids", Cartoon Network
+https://cdn10jtedge.useetv.com/joss/14/cartoonnetwork/chunklist_w1630298033_b684100_sleng_kamiselaluada.m3u8?enc=ci7hDYtxDlINVJo4BJew2g&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613739603
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/duniaanak.png" group-title="Kids", Dunia Anak
 https://cdn11jtedge.useetv.com/joss/14/duniaanak/chunklist_w1764217867_b684100_sleng_kamiselaluada.m3u8?enc=qpqLCQy7ZkVNhJJ7R_wavw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613232026
 #EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/DQqcXqk.png" group-title="Kids",ABC Kids
@@ -282,10 +286,6 @@ https://cdn11jtedge.useetv.com/joss/14/babyfirst/chunklist_w1727607633_b684100_s
 https://cdn11jtedge.useetv.com/joss/14/horee/chunklist_w2084418533_b684100_sleng_kamiselaluada.m3u8?enc=LtasfMA2l0qak6c5iRRvMw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613232002
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ducktv.png" group-title="Kids", Duck TV
 https://cdn10jtedge.useetv.com/joss/14/ducktv/chunklist_w572465807_b684100_sleng_kamiselaluada.m3u8?enc=Kum_BTUN8BYNCknS-dpvtA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613739602
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/boomerang.png" group-title="Kids", Boomerang
-https://cdn10jtedge.useetv.com/joss/14/boomerang/chunklist_w2145030991_b684100_sleng_kamiselaluada.m3u8?enc=m7SPlSVXFmSs2TCnBWPz8g&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613741528
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cartoonnetwork.png" group-title="Kids",
-Cartoon Network https://cdn10jtedge.useetv.com/joss/14/cartoonnetwork/chunklist_w1630298033_b684100_sleng_kamiselaluada.m3u8?enc=ci7hDYtxDlINVJo4BJew2g&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613739603
 
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/cnnindo.png" group-title="News",CNN INDONESIA
